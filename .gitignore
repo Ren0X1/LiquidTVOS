@@ -1,0 +1,34 @@
+# Datos de tu TV y tu casa: nunca al repo
+local.json
+backup/
+debloat/disabled.txt
+shots/
+
+# Herramientas descargadas por tools/setup.py
+platform-tools/
+android-sdk/
+download.zip
+
+# Generado al compilar
+launcher/build/
+*.apk
+
+# Clave de firma local (la crea build_launcher.py en el primer build)
+*.keystore
+*.jks
+
+# Originales descargados de Wikimedia (pesados); las versiones listas están en launcher/assets/photos
+photos/raw/*.jpg
+photos/raw/candidates*.json
+
+# Herramientas del editor
+.claude/
+.impeccable/
+__pycache__/
+*.pyc
+.agents/
+.codex/
+node_modules/
+package.json
+package-lock.json
+skills-lock.json

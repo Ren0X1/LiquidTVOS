@@ -1,0 +1,282 @@
+[
+ {
+  "place": "La Alhambra",
+  "city": "Granada",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Partal_pavilion_bassin_detail_1_edit.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Partal_pavilion_bassin_detail_1_edit.jpg",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "place": "Sagrada Família",
+  "city": "Barcelona",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sagrada_Fam%C3%ADlia_2010.JPG/3840px-Sagrada_Fam%C3%ADlia_2010.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_2010.JPG",
+  "author": "Jopparn",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Park Güell",
+  "city": "Barcelona",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Barcelona_Parc_G%C3%BCell_el_drac.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barcelona_Parc_G%C3%BCell_el_drac.jpg",
+  "author": "Isiwal",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Plaza de España",
+  "city": "Sevilla",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/3840px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+  "author": "Carlos Delgado",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Mezquita y Puente Romano",
+  "city": "Córdoba",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Centro_Hist%C3%B3rico%2C_16.9_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg/3840px-Centro_Hist%C3%B3rico%2C_16.9_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico,_16.9_--_2023_--_C%C3%B3rdoba,_Espa%C3%B1a.jpg",
+  "author": "Jose María Ligero Loarte",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Acueducto",
+  "city": "Segovia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aqueduct_of_Segovia_08.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Alcázar",
+  "city": "Segovia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Alc%C3%A1zar_of_Segovia_11.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_of_Segovia_11.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Toledo",
+  "city": "Toledo",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Toledo_Skyline_Panorama%2C_Spain_-_Dec_2006.jpg/3840px-Toledo_Skyline_Panorama%2C_Spain_-_Dec_2006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Toledo_Skyline_Panorama,_Spain_-_Dec_2006.jpg",
+  "author": "Diliff",
+  "license": "CC BY 2.5"
+ },
+ {
+  "place": "Ciudad de las Artes y las Ciencias",
+  "city": "Valencia",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Hemispheric_Twilight_-_Valencia%2C_Spain_-_Jan_2007.jpg/3840px-Hemispheric_Twilight_-_Valencia%2C_Spain_-_Jan_2007.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hemispheric_Twilight_-_Valencia,_Spain_-_Jan_2007.jpg",
+  "author": "Diliff",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Museo Guggenheim",
+  "city": "Bilbao",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg/3840px-Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg",
+  "author": "José Ligero Loarte",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Catedral",
+  "city": "Santiago de Compostela",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2010-Catedral_de_Santiago_de_Compostela-Galicia_%28Spain%29_3.jpg/3840px-2010-Catedral_de_Santiago_de_Compostela-Galicia_%28Spain%29_3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2010-Catedral_de_Santiago_de_Compostela-Galicia_(Spain)_3.jpg",
+  "author": "Luis Miguel Bugallo Sánchez",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Puente Nuevo",
+  "city": "Ronda",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg/3840px-Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Casas Colgadas",
+  "city": "Cuenca",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Casas_colgantes_de_Cuenca_iluminadas_01.jpg/3840px-Casas_colgantes_de_Cuenca_iluminadas_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Casas_colgantes_de_Cuenca_iluminadas_01.jpg",
+  "author": "Edmundo Sáez",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Catedral",
+  "city": "Burgos",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Burgos_cathedral_1.JPG/3840px-Burgos_cathedral_1.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Burgos_cathedral_1.JPG",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "place": "Plaza Mayor",
+  "city": "Madrid",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/3840px-Plaza_Mayor_de_Madrid_-_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg",
+  "author": "Carlos Delgado",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Monasterio de El Escorial",
+  "city": "Madrid",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg/3840px-Monasterio_de_El_Escorial_en_Madrid.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg",
+  "author": "Zvonimir Stamenov",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "San Juan de Gaztelugatxe",
+  "city": "Bizkaia",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Access_path_to_San_Juan_de_Gaztelugatxe_hermitage%2C_Spain_%28PPL1-Corrected_julesvernex2.jpg/3840px-Access_path_to_San_Juan_de_Gaztelugatxe_hermitage%2C_Spain_%28PPL1-Corrected_julesvernex2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Access_path_to_San_Juan_de_Gaztelugatxe_hermitage,_Spain_(PPL1-Corrected_julesvernex2.jpg",
+  "author": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "El Teide",
+  "city": "Tenerife",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Teide_von_Nordosten_%28Zuschnitt_1%29.jpg/3840px-Teide_von_Nordosten_%28Zuschnitt_1%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Teide_von_Nordosten_(Zuschnitt_1).jpg",
+  "author": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0 de"
+ },
+ {
+  "place": "Catedral",
+  "city": "Palma de Mallorca",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Catedral_de_Santa_Mar%C3%ADa%2C_Palma_de_Mallorca%2C_Espa%C3%B1a%2C_2022-10-06%2C_DD_01-03_HDR.jpg/3840px-Catedral_de_Santa_Mar%C3%ADa%2C_Palma_de_Mallorca%2C_Espa%C3%B1a%2C_2022-10-06%2C_DD_01-03_HDR.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Palma_de_Mallorca,_Espa%C3%B1a,_2022-10-06,_DD_01-03_HDR.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Albarracín",
+  "city": "Teruel",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Albarrac%C3%ADn%2C_Teruel%2C_Espa%C3%B1a%2C_2014-01-10%2C_DD_051.JPG/3840px-Albarrac%C3%ADn%2C_Teruel%2C_Espa%C3%B1a%2C_2014-01-10%2C_DD_051.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Albarrac%C3%ADn,_Teruel,_Espa%C3%B1a,_2014-01-10,_DD_051.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Peñíscola",
+  "city": "Castellón",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Castillo_de_pe%C3%B1iscola-2011_%282%29.JPG/3840px-Castillo_de_pe%C3%B1iscola-2011_%282%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_pe%C3%B1iscola-2011_(2).JPG",
+  "author": "Alberto-g-rovi",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Catedral",
+  "city": "Jerez de la Frontera",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jerez_Spain_Catedral-de-San-Salvador-01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jerez_Spain_Catedral-de-San-Salvador-01.jpg",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Castillo de San Sebastián",
+  "city": "Cádiz",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Castillo_de_San_Sebasti%C3%A1n_C%C3%A1diz_1.jpg/3840px-Castillo_de_San_Sebasti%C3%A1n_C%C3%A1diz_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_San_Sebasti%C3%A1n_C%C3%A1diz_1.jpg",
+  "author": "kallerna",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Muelle del Tinto",
+  "city": "Huelva",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Muelle_del_Tinto.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Muelle_del_Tinto.JPG",
+  "author": "Calapito",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "place": "Parque de Doñana",
+  "city": "Huelva",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Paisaje_en_el_Parque_de_Do%C3%B1ana%2C_Espa%C3%B1a%2C_2015-12-07%2C_DD_03.JPG/3840px-Paisaje_en_el_Parque_de_Do%C3%B1ana%2C_Espa%C3%B1a%2C_2015-12-07%2C_DD_03.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Paisaje_en_el_Parque_de_Do%C3%B1ana,_Espa%C3%B1a,_2015-12-07,_DD_03.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Catedral",
+  "city": "Sevilla",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/3840px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Real Alcázar",
+  "city": "Sevilla",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Real_Alc%C3%A1zar._Patio_del_Crucero.jpg/3840px-Real_Alc%C3%A1zar._Patio_del_Crucero.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Real_Alc%C3%A1zar._Patio_del_Crucero.jpg",
+  "author": "Alberto.Bravo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Torre del Oro",
+  "city": "Sevilla",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Torre_del_Oro%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_72.JPG/3840px-Torre_del_Oro%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_72.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Torre_del_Oro,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_72.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Alcazaba",
+  "city": "Antequera",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Alcazaba_Antequera.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alcazaba_Antequera.jpg",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "place": "Caminito del Rey",
+  "city": "Málaga",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Caminito_del_Rey%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-18%2C_DD_27.jpg/3840px-Caminito_del_Rey%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-18%2C_DD_27.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Caminito_del_Rey,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-18,_DD_27.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Catedral",
+  "city": "Jaén",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Catedral_de_Ja%C3%A9n_009.JPG/3840px-Catedral_de_Ja%C3%A9n_009.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Catedral_de_Ja%C3%A9n_009.JPG",
+  "author": "Américo Toledano",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Sacra Capilla del Salvador",
+  "city": "Úbeda",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%C3%9Abeda_-_Sacra_Capilla_del_Salvador_-_4.jpg/3840px-%C3%9Abeda_-_Sacra_Capilla_del_Salvador_-_4.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%9Abeda_-_Sacra_Capilla_del_Salvador_-_4.jpg",
+  "author": "Benjamin Smith",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Alcazaba",
+  "city": "Almería",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Alcazaba_1%2C_Almeria%2C_Spain.jpg/3840px-Alcazaba_1%2C_Almeria%2C_Spain.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alcazaba_1,_Almeria,_Spain.jpg",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "place": "Cabo de Gata",
+  "city": "Almería",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cabo_de_Gata%2C_Andalusia%2C_Spain.jpg/3840px-Cabo_de_Gata%2C_Andalusia%2C_Spain.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cabo_de_Gata,_Andalusia,_Spain.jpg",
+  "author": "Jebulon",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "place": "Olvera",
+  "city": "Cádiz",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/View_of_Olvera.jpg/3840px-View_of_Olvera.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_Olvera.jpg",
+  "author": "Tomas Fano",
+  "license": "CC BY-SA 2.0"
+ }
+]

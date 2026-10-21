@@ -1,0 +1,282 @@
+[
+ {
+  "file": "00.jpg",
+  "blur": "00_blur.jpg",
+  "place": "La Alhambra",
+  "city": "Granada",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "file": "01.jpg",
+  "blur": "01_blur.jpg",
+  "place": "Sagrada Família",
+  "city": "Barcelona",
+  "author": "Jopparn",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "02.jpg",
+  "blur": "02_blur.jpg",
+  "place": "Park Güell",
+  "city": "Barcelona",
+  "author": "Isiwal",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "03.jpg",
+  "blur": "03_blur.jpg",
+  "place": "Plaza de España",
+  "city": "Sevilla",
+  "author": "Carlos Delgado",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "04.jpg",
+  "blur": "04_blur.jpg",
+  "place": "Mezquita y Puente Romano",
+  "city": "Córdoba",
+  "author": "Jose María Ligero Loarte",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "05.jpg",
+  "blur": "05_blur.jpg",
+  "place": "Acueducto",
+  "city": "Segovia",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "06.jpg",
+  "blur": "06_blur.jpg",
+  "place": "Alcázar",
+  "city": "Segovia",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "07.jpg",
+  "blur": "07_blur.jpg",
+  "place": "Toledo",
+  "city": "Toledo",
+  "author": "Diliff",
+  "license": "CC BY 2.5"
+ },
+ {
+  "file": "08.jpg",
+  "blur": "08_blur.jpg",
+  "place": "Ciudad de las Artes y las Ciencias",
+  "city": "Valencia",
+  "author": "Diliff",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "09.jpg",
+  "blur": "09_blur.jpg",
+  "place": "Museo Guggenheim",
+  "city": "Bilbao",
+  "author": "José Ligero Loarte",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "10.jpg",
+  "blur": "10_blur.jpg",
+  "place": "Catedral",
+  "city": "Santiago de Compostela",
+  "author": "Luis Miguel Bugallo Sánchez",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "11.jpg",
+  "blur": "11_blur.jpg",
+  "place": "Puente Nuevo",
+  "city": "Ronda",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "12.jpg",
+  "blur": "12_blur.jpg",
+  "place": "Casas Colgadas",
+  "city": "Cuenca",
+  "author": "Edmundo Sáez",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "13.jpg",
+  "blur": "13_blur.jpg",
+  "place": "Catedral",
+  "city": "Burgos",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "file": "14.jpg",
+  "blur": "14_blur.jpg",
+  "place": "Plaza Mayor",
+  "city": "Madrid",
+  "author": "Carlos Delgado",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "15.jpg",
+  "blur": "15_blur.jpg",
+  "place": "Monasterio de El Escorial",
+  "city": "Madrid",
+  "author": "Zvonimir Stamenov",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "16.jpg",
+  "blur": "16_blur.jpg",
+  "place": "San Juan de Gaztelugatxe",
+  "city": "Bizkaia",
+  "author": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "17.jpg",
+  "blur": "17_blur.jpg",
+  "place": "El Teide",
+  "city": "Tenerife",
+  "author": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0 de"
+ },
+ {
+  "file": "18.jpg",
+  "blur": "18_blur.jpg",
+  "place": "Catedral",
+  "city": "Palma de Mallorca",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "19.jpg",
+  "blur": "19_blur.jpg",
+  "place": "Albarracín",
+  "city": "Teruel",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "20.jpg",
+  "blur": "20_blur.jpg",
+  "place": "Peñíscola",
+  "city": "Castellón",
+  "author": "Alberto-g-rovi",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "21.jpg",
+  "blur": "21_blur.jpg",
+  "place": "Catedral",
+  "city": "Jerez de la Frontera",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "22.jpg",
+  "blur": "22_blur.jpg",
+  "place": "Castillo de San Sebastián",
+  "city": "Cádiz",
+  "author": "kallerna",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "23.jpg",
+  "blur": "23_blur.jpg",
+  "place": "Muelle del Tinto",
+  "city": "Huelva",
+  "author": "Calapito",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "24.jpg",
+  "blur": "24_blur.jpg",
+  "place": "Parque de Doñana",
+  "city": "Huelva",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "25.jpg",
+  "blur": "25_blur.jpg",
+  "place": "Catedral",
+  "city": "Sevilla",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "26.jpg",
+  "blur": "26_blur.jpg",
+  "place": "Real Alcázar",
+  "city": "Sevilla",
+  "author": "Alberto.Bravo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "27.jpg",
+  "blur": "27_blur.jpg",
+  "place": "Torre del Oro",
+  "city": "Sevilla",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "28.jpg",
+  "blur": "28_blur.jpg",
+  "place": "Alcazaba",
+  "city": "Antequera",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "file": "29.jpg",
+  "blur": "29_blur.jpg",
+  "place": "Caminito del Rey",
+  "city": "Málaga",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "30.jpg",
+  "blur": "30_blur.jpg",
+  "place": "Catedral",
+  "city": "Jaén",
+  "author": "Américo Toledano",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "31.jpg",
+  "blur": "31_blur.jpg",
+  "place": "Sacra Capilla del Salvador",
+  "city": "Úbeda",
+  "author": "Benjamin Smith",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "32.jpg",
+  "blur": "32_blur.jpg",
+  "place": "Alcazaba",
+  "city": "Almería",
+  "author": "Jebulon",
+  "license": "CC0"
+ },
+ {
+  "file": "33.jpg",
+  "blur": "33_blur.jpg",
+  "place": "Cabo de Gata",
+  "city": "Almería",
+  "author": "Jebulon",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "34.jpg",
+  "blur": "34_blur.jpg",
+  "place": "Olvera",
+  "city": "Cádiz",
+  "author": "Tomas Fano",
+  "license": "CC BY-SA 2.0"
+ }
+]

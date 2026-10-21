@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default dock apps, left to right. Package names; find them with
+         tools/tv.py 'pm list packages'. Missing packages are skipped.
+         Once you change the dock with the pencil button on the TV, that
+         choice is kept on the box and this list is no longer used. -->
+    <string-array name="dock_packages">
+        <item>com.netflix.ninja</item>
+        <item>com.amazon.amazonvideo.livingroom</item>
+        <item>com.google.android.youtube.tv</item>
+        <item>com.ibopro.player</item>
+    </string-array>
+
+    <!-- Packages never shown in the grid (besides this launcher). -->
+    <string-array name="hidden_packages">
+        <item>com.google.android.tvlauncher</item>
+        <item>com.android.tv.settings</item>
+    </string-array>
+
+    <!-- Minutes between background photos. A new photo also comes up each
+         time you come back home from an app. -->
+    <integer name="photo_minutes">3</integer>
+
+    <!-- Town for the weather. Empty: guessed from the internet connection,
+         which can land on a nearby city. Set it in local.json
+         ("weather_city") rather than here, so it stays out of git. -->
+    <string name="weather_city"></string>
+</resources>

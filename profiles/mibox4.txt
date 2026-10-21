@@ -1,0 +1,44 @@
+# Xiaomi Mi Box 4 (MIBOX4, Android 9, firmware PI.3933)
+# Disabled with `pm disable-user --user 0`, never uninstalled. Everything here
+# survives reboots: this firmware re-enables nothing on its own.
+# Comment out (#) what you want to keep, then:
+#   python tools/debloat.py -f profiles/mibox4.txt
+#
+# Kept on purpose (do NOT add): com.android.vending (Play Store),
+# com.google.android.gms (Play Services), com.google.android.apps.mediashell
+# (Chromecast), com.google.android.inputmethod.latin (keyboard),
+# com.android.bluetooth, com.xiaomi.android.tvsetup.partnercustomizer (remote
+# pairing and global keys), mitv.service, com.android.tv.settings.
+
+# --- Telemetry and ads
+com.miui.tv.analytics                    # Xiaomi analytics collector
+tv.alphonso.alphonso_eula                # Alphonso: automatic content recognition for ads
+com.google.android.tv.bugreportsender
+com.google.android.feedback
+
+# --- Xiaomi content
+com.mitv.tvhome.atv                      # PatchWall
+com.mitv.tvhome.michannel                # PatchWall recommendation channel
+com.xm.webcontent
+com.mitv.download.service
+android.autoinstalls.config.xiaomi.mibox3   # installs partner apps silently
+android.autoinstalls.config.xioami.mibox3
+com.mitv.tvhome.mitvplus                 # Xiaomi TV+
+com.mitv.videoplayer                     # Xiaomi video player
+
+# --- Services (optional: keep the ones you use)
+com.mitv.milinkservice                   # MiLink / Miracast casting
+com.xiaomi.mitv.updateservice            # Xiaomi firmware updates
+com.android.printspooler
+com.android.camera2
+com.google.android.katniss               # Google Assistant / voice search
+com.google.android.speech.pumpkin        # offline voice commands
+
+# --- Preloaded apps (optional)
+com.google.android.videos                # Google Play Movies
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+
+# --- Stock launcher: only AFTER LiquidTVOS is installed and set as Home
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
